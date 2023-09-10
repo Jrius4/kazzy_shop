@@ -1,1 +1,1 @@
-# kazzy_shop
+# Kazzy shop
